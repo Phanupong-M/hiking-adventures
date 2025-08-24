@@ -19,7 +19,7 @@ function HeroSection() {
 
         <div>
             <h2 className="text-xl font-semibold mb-2">-Author</h2>
-            <h3 className="text-2xl font-bold mb-4">Phanupong M.</h3>
+            <h3 className="text-2xl font-bold mb-4">Stamp</h3>
             <p className="text-gray-500 mb-4">
                 I'm an avid hiker and outdoor enthusiast, passionate about discovering new trails and sharing my experiences in the wilderness. I believe in the power of nature to refresh the soul and challenge the body
             </p>
